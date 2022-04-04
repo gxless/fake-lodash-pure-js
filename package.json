@@ -1,0 +1,12 @@
+{
+  "name": "fake-lodash-pure-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "private": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xiang gao",
+  "license": "MIT"
+}
